@@ -1,1 +1,1 @@
-# formula1
+This is my first project incorporating the SQL knowledge that I have gained over the past couple of months. As an avid formula 1 fan, I used data sets found on kaggle that include data on the drivers, cinstructors, races, circuits, etc. I first cleaned the data in excel and then converted the csv files to standard UTF-8 as the data was initially in the pesky UTF-8 with BOM format, which did not allow me to insert the data into tables. All of the queries I wrote were done so in MySQL Workbench. 
